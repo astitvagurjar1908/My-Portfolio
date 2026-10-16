@@ -16,7 +16,7 @@ export const profile = {
 };
 
 export const quickStats = [
-  { label: 'Years of experience', value: 3, suffix: '+' },
+  { label: 'Years of experience', value: 4, suffix: '+' },
   { label: 'Peak throughput', value: 700, suffix: '+', unit: 'txn/s' },
   { label: 'REST APIs shipped', value: 100, suffix: '+' },
   { label: 'Uptime maintained', value: 99.99, suffix: '%' },
